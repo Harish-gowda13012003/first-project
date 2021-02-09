@@ -1,0 +1,27 @@
+.home{
+
+    background-image: url('../img/rainy.jpeg');
+    background-size: cover;
+    height:80vh;
+    background-repeat: no repeat;
+    background-position: center bottom;
+    
+}
+ /* .head{ 
+    background-image: url("../img/rainy.jpeg");
+    background-size:contain;
+    height:50vh;
+    background-repeat: no repet;
+    background-position: center bottom;
+    width:800px;
+    margin:50px;
+ */
+.name{
+   
+   box-shadow: 3px 2px 13px red;
+   display:flex;
+   flex-direction:column;
+   margin:30px;
+   padding:20px;
+
+}
